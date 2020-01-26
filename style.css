@@ -1,0 +1,142 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Noticia Text', serif;
+}
+.basic-introduction {
+    background-color: #3fc5f0;
+    min-height: 700px !important;
+    padding-top: 120px;
+}
+.basic-introduction h1 {
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+}
+.basic-introduction p {
+    font-size: 22px;
+    padding-bottom: 90px;
+}
+.basic-introduction > img {
+    height: 120px;
+    margin: 32px;
+    width: 120px;
+}
+.introduction {
+    padding: 120px 140px 0px;
+}
+.introduction > img {
+    height: 200px;
+    width: 200px;
+}
+.introduction h3 {
+    font-size: 40px;
+    margin-top: 0px;
+}
+.introduction p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 40px 290px;
+}
+.line {
+    border: 5px dotted lightgray;
+    border-top: 0px;
+    margin: 120px 500px 0px;
+}
+.strengths {
+    padding: 120px 140px 0px;
+}
+.strengths h2 {
+    font-size: 58px;
+    margin-top: 0px;
+}
+.developer, .timer, .teamworker {
+    margin: 120px 140px;
+}
+.developer img {
+    float: left;
+    position: relative;
+    height: 200px;
+    width: 200px;
+}
+.content-wrapper {
+    text-align: left;
+    margin-left: 300px;
+}
+.content-wrapper h3 {
+   font-size: 28px;
+}
+.content-wrapper p {
+    font-size: 18px;
+}
+.timer img {
+    float: right;
+    position: relative;
+    height: 180px;
+    width: 180px;
+}
+.timer-content-wrapper {
+    text-align: right;
+    margin-right: 300px;
+}
+.timer-content-wrapper h3 {
+   font-size: 28px;
+}
+.timer-content-wrapper p {
+    font-size: 18px;
+}
+.teamworker img {
+    float: left;
+    position: relative;
+    height: 180px;
+    width: 180px;
+}
+.available {
+    background-color: #6decb9;
+    padding: 120px 140px 0px;
+}
+.available h2 {
+    font-size: 58px;
+    margin-top: 0px;
+}
+.available h3 {
+    font-size: 28px;
+    margin-top: 0px;
+}
+.available p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 40px 290px 0px;
+    padding-bottom: 20px;
+}
+.available .button {
+    padding: 80px;
+}
+.available .button a {
+    background-color: #fff;
+    border-radius: 30px;
+    color: #000;
+    padding: 16px 32px;
+    text-decoration: none;
+    transition: box-shadow .3s;
+}
+.available .button a:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+    background-color: lightgray;
+    color: #000;
+}
+.skills {
+    padding: 120px 140px 120px;
+}
+.skills h3 {
+    font-size: 40px;
+    margin-top: 0px;
+}
+.skills img {
+    height: 120px;
+    margin: 32px;
+    width: 120px;
+}
+.footer {
+    background-color: #3fc5f0;
+    padding: 40px;
+}
